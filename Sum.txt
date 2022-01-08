@@ -1,0 +1,7 @@
+Class Sum{
+
+int a =5;
+int b= 10;
+sop("The sum of two number is: "+(a+b));
+
+}
