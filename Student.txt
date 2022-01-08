@@ -1,2 +1,5 @@
 Hey,
-          Dear today i am just learning about git.
+          Dear today i am just learning about git. and trying to understands about it.
+
+
+Thanks,
